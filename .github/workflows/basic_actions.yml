@@ -1,6 +1,5 @@
 name: Deploy Website
-
-on: [push]
+on: push
 
 jobs:
   build:
